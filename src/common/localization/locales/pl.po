@@ -13,11 +13,11 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#: src/client/test/components/test-widget/main.tsx:52
+#: src/client/test/components/test-widget/main.tsx:50
 msgid "An unexpected error occurred"
 msgstr "Wystąpił nieoczekiwany błąd"
 
-#: src/app/(root)/layout.tsx:36
+#: src/app/(root)/layout.tsx:37
 msgid "Broadcast scheduling app 📅"
 msgstr "Broadcast scheduling app 📅"
 
@@ -37,11 +37,11 @@ msgstr "Wyczyść"
 msgid "Completed"
 msgstr "Zakończone"
 
-#: src/app/(root)/layout.tsx:42
+#: src/app/(root)/layout.tsx:43
 msgid "daisy"
 msgstr "daisy"
 
-#: src/client/test/components/test-widget/components/test-form/main.tsx:25
+#: src/client/test/components/test-widget/components/test-form/main.tsx:30
 msgid "Enter some value"
 msgstr "Wprowadź jakąś wartość"
 
@@ -74,8 +74,8 @@ msgstr "Brak dostępu • daisy"
 msgid "Info"
 msgstr "Informacja"
 
-#: src/client/test/components/test-widget/main.tsx:41
-#: src/client/test/components/test-widget/main.tsx:62
+#: src/client/test/components/test-widget/main.tsx:39
+#: src/client/test/components/test-widget/main.tsx:60
 msgid "Invalid input"
 msgstr "Nieprawidłowe dane wejściowe"
 
@@ -116,7 +116,7 @@ msgstr "Uśpione"
 msgid "Something went wrong"
 msgstr "Coś poszło nie tak"
 
-#: src/client/test/components/test-widget/components/test-form/main.tsx:30
+#: src/client/test/components/test-widget/components/test-form/main.tsx:36
 msgid "Submit"
 msgstr "Wyślij"
 
